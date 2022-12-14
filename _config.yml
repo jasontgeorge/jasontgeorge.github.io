@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jason George, MD, PhD"
+  name             : "Jason George, \\ MD, PhD"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Houston, TX"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "jason.george@tamu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
