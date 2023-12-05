@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jason T. George, M.D., Ph.D."
+title                    : #"Jason T. George, M.D., Ph.D."
 title_separator          : "-"
-name                     : &name "Jason George, MD, PhD"
+name                     : &name #"Jason George, MD, PhD"
 description              : &description "personal description"
 url                      : ##### https://jasontgeorge.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jason George, <br> M.D., Ph.D."
+  name             : #"Jason George, <br> M.D., Ph.D."
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Houston, TX"
+  location         : #"Houston, TX"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=qFGeJ7EAAAAJ&hl=en&oi=ao"
-  email            : "jason.george@tamu.edu"
+  googlescholar    : #"https://scholar.google.com/citations?user=qFGeJ7EAAAAJ&hl=en&oi=ao"
+  email            : #"jason.george@tamu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-8248-2888"
+  orcid            : #"https://orcid.org/0000-0002-8248-2888"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
